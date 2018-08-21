@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>keep going</title>
+    <link href="http://github.com/okzhangyu/MY/feed.xml" rel="self" />
+    <link href="http://github.com/okzhangyu/MY" />
+    <updated>2018-08-21T18:33:25+08:00</updated>
+    <author>
+        <name>zero.zhang</name>
+    </author>
+    <id>http://github.com/okzhangyu/MY</id>
+
+    <entry>
+        <title>Test the blog kit,Publii...</title>
+        <author>
+            <name>zero.zhang</name>
+        </author>
+        <link href="http://github.com/okzhangyu/MY/test-the-blog-kitpublii.html"/>
+        <id>http://github.com/okzhangyu/MY/test-the-blog-kitpublii.html</id>
+
+        <updated>2018-08-21T18:33:04+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://github.com/okzhangyu/MY/media/posts/1/" alt="" />
+                    Hello,the fucking world!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/okzhangyu/MY/media/posts/1/" alt="" />
+                Hello,the fucking world!
+            ]]>
+        </content>
+    </entry>
+</feed>

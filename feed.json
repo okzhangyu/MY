@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "keep going",
+    "description": "",
+    "home_page_url": "http://github.com/okzhangyu/MY",
+    "feed_url": "http://github.com/okzhangyu/MY/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "zero.zhang"
+    },
+    "items": [
+        {
+            "id": "http://github.com/okzhangyu/MY/test-the-blog-kitpublii.html",
+            "url": "http://github.com/okzhangyu/MY/test-the-blog-kitpublii.html",
+            "title": "Test the blog kit,Publii...",
+            "summary": "Hello,the fucking world!",
+            "content_html": "Hello,the fucking world!",
+            "image": "http://github.com/okzhangyu/MY/media/posts/1/",
+            "author": {
+                "name": "zero.zhang"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-21T18:33:04+08:00",
+            "date_modified": "2018-08-21T18:33:04+08:00"
+        }
+    ]
+}
