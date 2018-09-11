@@ -3,12 +3,29 @@
     <title>keep going</title>
     <link href="http://github.com/okzhangyu/MY/feed.xml" rel="self" />
     <link href="http://github.com/okzhangyu/MY" />
-    <updated>2018-09-11T10:07:47+08:00</updated>
+    <updated>2018-09-11T11:12:36+08:00</updated>
     <author>
         <name>zero.zhang</name>
     </author>
     <id>http://github.com/okzhangyu/MY</id>
 
+    <entry>
+        <title>stock</title>
+        <author>
+            <name>zero.zhang</name>
+        </author>
+        <link href="http://github.com/okzhangyu/MY/stock.html"/>
+        <id>http://github.com/okzhangyu/MY/stock.html</id>
+
+        <updated>2018-09-11T11:12:20+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/okzhangyu/MY/media/posts/3/" alt="" />
+                <img src="http://github.com/okzhangyu/MY/media/posts/3/Screenshot_20180731-110552_StockManagement.jpg" alt="" width="399" height="820">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>stockmanagament</title>
         <author>
