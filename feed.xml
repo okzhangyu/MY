@@ -3,31 +3,31 @@
     <title>keep going</title>
     <link href="http://github.com/okzhangyu/MY/feed.xml" rel="self" />
     <link href="http://github.com/okzhangyu/MY" />
-    <updated>2018-08-21T18:59:37+08:00</updated>
+    <updated>2018-09-11T10:07:47+08:00</updated>
     <author>
         <name>zero.zhang</name>
     </author>
     <id>http://github.com/okzhangyu/MY</id>
 
     <entry>
-        <title>TEST01</title>
+        <title>stockmanagament</title>
         <author>
             <name>zero.zhang</name>
         </author>
         <link href="http://github.com/okzhangyu/MY/test01.html"/>
         <id>http://github.com/okzhangyu/MY/test01.html</id>
 
-        <updated>2018-08-21T18:56:55+08:00</updated>
+        <updated>2018-09-11T10:07:26+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://github.com/okzhangyu/MY/media/posts/2/" alt="" />
-                    KEEP GOING
+                    仓库管理系统主要应用于
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://github.com/okzhangyu/MY/media/posts/2/" alt="" />
-                KEEP GOING
+                仓库管理系统主要应用于
             ]]>
         </content>
     </entry>
