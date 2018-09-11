@@ -3,12 +3,34 @@
     <title>keep going</title>
     <link href="http://github.com/okzhangyu/MY/feed.xml" rel="self" />
     <link href="http://github.com/okzhangyu/MY" />
-    <updated>2018-09-11T11:25:01+08:00</updated>
+    <updated>2018-09-11T14:01:32+08:00</updated>
     <author>
         <name>zero.zhang</name>
     </author>
     <id>http://github.com/okzhangyu/MY</id>
 
+    <entry>
+        <title>stockmanagenment</title>
+        <author>
+            <name>zero.zhang</name>
+        </author>
+        <link href="http://github.com/okzhangyu/MY/stockmanagenment.html"/>
+        <id>http://github.com/okzhangyu/MY/stockmanagenment.html</id>
+
+        <updated>2018-09-11T13:59:40+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://github.com/okzhangyu/MY/media/posts/4/" alt="" />
+                    stockmanagement是用于仓库管理的一个APP产品，主要是对于仓库出入库的管理，通过接口和SAP businessone 连接在一起实现了移动化办公的目的，仓库人员只需要通过移动端的操作就能实现产品快速的出入库，不仅实现了移动化办公更实现了信息化管理，为企业节省了时间，提高了管理效率。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/okzhangyu/MY/media/posts/4/" alt="" />
+                stockmanagement是用于仓库管理的一个APP产品，主要是对于仓库出入库的管理，通过接口和SAP businessone 连接在一起实现了移动化办公的目的，仓库人员只需要通过移动端的操作就能实现产品快速的出入库，不仅实现了移动化办公更实现了信息化管理，为企业节省了时间，提高了管理效率。
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>stock</title>
         <author>
